@@ -29,7 +29,7 @@
 
 ### [GODOT - Learning Game Engine](https://github.com/Lubos-source/GoDot-Learning)
 ### [Advanced Weather-Based Planner](https://github.com/Lubos-source/WeGoFun)
-### [Learning Rasppberry Pi and other HW cool stuff]()
+### Learning Rasppberry Pi and other HW cool stuff
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lubos-source&icon=6&color=8)](https://visitcount.itsvg.in)
