@@ -25,8 +25,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=Lubos-source&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
 
 
+## ⌛ Free time projects
+
+### [GODOT - Learning Game Engine](https://github.com/Lubos-source/GoDot-Learning)
+### [Advanced Weather-Based Planner](https://github.com/Lubos-source/WeGoFun)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lubos-source&icon=6&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Template created with GPRM ( https://gprm.itsvg.in ) and edited by myself -->
