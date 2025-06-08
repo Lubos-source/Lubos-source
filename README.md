@@ -27,6 +27,7 @@
 
 ## ⌛ Free time projects
 
+### [GitHub Pages 4FUN site](https://lubos-source.github.io/portfolio/)
 ### [GODOT - Learning Game Engine](https://github.com/Lubos-source/GoDot-Learning)
 ### [Advanced Weather-Based Planner](https://github.com/Lubos-source/WeGoFun)
 ### Learning Rasppberry Pi and other HW cool stuff
